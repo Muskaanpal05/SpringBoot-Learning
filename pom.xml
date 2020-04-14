@@ -8,10 +8,10 @@
 		<version>2.2.6.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>muskaan.springboot</groupId>
-	<artifactId>learning</artifactId>
+	<groupId>muskaan</groupId>
+	<artifactId>springboot-learning</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>learning</name>
+	<name>springboot-learning</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
